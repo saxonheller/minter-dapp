@@ -330,7 +330,25 @@ section {
 
 .splide__slide img {
   width: 100%;
+  
 }
+.splide {
+  position: absolute;
+  top: 90px;
+  right: 5rem;
+  z-index: -1;
+}
+
+.splide__slide {
+  border: var(--accent-color) solid;
+  border-width: 5px 10px;
+}
+
+.splide__slide img {
+  width: 100%;
+}
+
+
 
 /* SPINNER */
 .dot-spin {
