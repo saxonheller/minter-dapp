@@ -187,7 +187,7 @@ section {
   background: var(--accent-color);
   color: var(--font-color);
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 850;
   font-family: var(--font-secondary);
   padding: 1rem;
   display: inline-block;
@@ -319,7 +319,7 @@ section {
 .splide {
   position: absolute;
   top: 90px;
-  left: 5rem;
+  right: 5rem;
   z-index: -1;
 }
 
